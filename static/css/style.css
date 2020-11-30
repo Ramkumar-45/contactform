@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Karla', sans-serif;
+}
+
+body {
+    color: #161c2d;
+    background: #ebeff1 !important;
+}
+
+.main-page {
+    margin: 4.5rem 0;
+}
+
+.card .card-header, .card-body{
+    background-color: #ffffff;
+}
